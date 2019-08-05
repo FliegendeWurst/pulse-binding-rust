@@ -1,3 +1,7 @@
+# <unreleased>
+
+ * Removed deprecated comparison methods
+
 # 2.13.0 (September 17th, 2019)
 
  * Changed the license model from LGPL to dual MIT and Apache-2.0.
