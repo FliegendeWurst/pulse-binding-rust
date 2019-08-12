@@ -1,6 +1,7 @@
 # <unreleased>
 
  * Removed deprecated comparison methods
+ * Removed deprecated proplist methods
 
 # 2.13.0 (September 17th, 2019)
 
